@@ -24,7 +24,7 @@ My background in **Psychology** (degree + specialization in Cognitive Behavioral
 | **BI & Visualization** | Power BI, Excel |
 | **Cloud** | AWS (S3, Glue, Athena) — Serverless Architecture |
 | **Methodologies** | Agile (Scrum, Kanban), Data Storytelling |
-| **Data Quality | Data Validation, Data Cleaning, Root-Cause Analysis |
+| **Data Quality** | Data Validation, Data Cleaning, Root-Cause Analysis |
 ---
 
 ## 📂 Featured Projects
